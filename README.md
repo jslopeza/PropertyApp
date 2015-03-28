@@ -8,4 +8,4 @@ Steps
 1. run ``` npm install ```
 1. run ``` npm start ```
 
-*Make sure to check (React Native)[http://facebook.github.io/react-native/] if you have everything setup*
+*Make sure to check [React Native](http://facebook.github.io/react-native/) if you have everything setup*
